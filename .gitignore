@@ -1,0 +1,11 @@
+# Editor / agent config
+.claude/
+
+# Internal working docs (not for public repo)
+BRIEF.md
+BRIEF-2-images.md
+kwork-portfolio-caption.md
+
+# OS junk
+Thumbs.db
+.DS_Store
